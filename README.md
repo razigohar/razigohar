@@ -64,10 +64,10 @@ Here are some ideas to get you started:
 
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadashiq12&show_icons=true&locale=en" alt="fahadashiq12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razigohar&show_icons=true&locale=en" alt="razigohar" /></p>
 
  
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fahadashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fahadashiq" height="30" width="40" /></a>
@@ -81,3 +81,4 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/ucy8xex2txdyiipoo8yatbeq/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucy8xex2txdyiipoo8yatbeq/featured" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fahadashiq30" height="30" width="40" /></a>
 </p>  
+-->
